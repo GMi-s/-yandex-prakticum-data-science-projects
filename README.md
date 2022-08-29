@@ -19,7 +19,7 @@ Presented in the form of iPython Notebooks and readme markdown files. <br>
     <td width=20%>Used libraries</td>
   </tr>
         <tr>
-    <td><a href="https://github.com/GMi-s/-yandex-prakticum-data-science-projects/blob/0e3f1abf17cc7c989b095475580b8e636cc85871/17Sprint%20-%20final_steel/Reviewed%20-%20r_3.0-final_steel.ipynb)">Steel temperature</a></td>
+     <td><a href="https://github.com/GMi-s/-yandex-prakticum-data-science-projects/tree/main/17Sprint-final_steel">Steel temperature</a></td>
     <td>In order to optimize production costs, the steelworks of So Hardening Steel Ltd. decided to reduce the electricity consumption during the steel processing phase. You will have to build a model that predicts the temperature of the steel.</td>
     <td>Python, Pandas, Matplotlib, Seaborn, exploratory data analysis, data visualization, data preprocessing, math, machine learning, gradient boosting, numpy</td>
   </tr>
